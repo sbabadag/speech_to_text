@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "named-sequencer-280710",
+  "private_key_id": "c23f134cab61fef17e965890774f517d5fcb00e5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC+BOMpeSfdpxb2\nHHuEw7XOFIMR+LFmXwJeYJN8f9pJo566zmfPU2eSm1HPHigHonUyUF2h9ejYs0Vt\ngotUraczs7TAbN0gRFEXHJchfydSDYOz1Cp6phe2e48yhX9c3yutnCr9OixWfUHc\nuy9tZz5ukjBAt9aRPXCJXiRb7yhWAUguCmsLo6h1hxbTcE+grAaKr1v5x8/ck1Un\nbym2npEdv69PrbD/p9q+V0R24qOsGPw+CPgzxi39tDgiPgOk5OdZ6JzUNtEQ4Fi+\nJnLyZpMYYMknNnmFpsbLqQnjZgZQWHw7GCEkB50j0tGgH6cdXx+SuxYl/8El7DtK\nVAP39GeRAgMBAAECggEAK6KArbHqMy6fCbYhsSumEKRKMvLKfgkcSKLhy2mqrVVa\n6mfik8wB0TtEjozMwXAPfJXS4pHPPg/wxgR/zVqxNiCyxataHgJCIs4IcIM7+s4q\nq71xYcfJUzjNedsJE8EVzSC7CHp22weZe8AqVHOsdQSx+vKcXa7frFPHgqsJNrJf\nyoJzc/7r9hd+g3t2W/US2bziZpMITugbhqf9uDGo3f+Pi+7dWi7etLJeZWd96Oox\ncILyADj7MTSPaMJl7I+YQG+C33Z6XDirB8v4acNjar2kElKUUk9Vj3lvu3ShIvF7\noJHurHfJvMjE4Nu5PQ2rCPoqKnxN2gKitQV7Mdes9wKBgQD1bY9i84A9I4ovkuVS\nLWE/zQXm9yio4cbOywogXPZhsUV96fn4Fm9tBIBaqdDSNqK/n1iFHxa8ekUInhGc\nivqpJiODESj55T03tjehM5GnrCPKgHKNBxUpHBMBmdrVw4ThO7/PkRQ6B7LBQfZv\n6OCI3L0E5vbukxPa8tlr7ZtqJwKBgQDGNE9H+m58yAZVeOY0BYHcFXMFYRuacr3a\nuooHLaCUm7MkuXr8wbfbPRU/Lkc3qOII9sNj+ylMwB+kdVFqHw1Hg9WCs0mvwx2T\nNvvnxSVgWdt+WaDljChXCTBobsGwmHw6yyFRx6Q5ow+pu4wNvuTNseo/ZtkeiYyX\nOTjyU6pLhwKBgQDEB4BxrsCNFOf428HjA3Abv6ypMFz/l2ZuIeqyss3wdeFlkw8f\nwvu4/dFvmRe77/vKRoIzwgMtBBRDr82tVaykklvnAjvSbfGZoCeK0F/Upz/nLPVS\nA4g5T702mCccepCWPl0Uc3LObvuuNPubo0xExNsNIVW2dS90wGg9NoneHQKBgQCb\nXKeEiTYQE457cxAnWOXIyPtnDQ5hC23sROoq5EYKFt3efJF+DK78aC3+X10tsPC1\nDBBuj5J4+eQTum492+dB1oIHOFgbMLs/CQt+SleY5faaXNE0/Z8lUiuiwKaMsYo3\nX8BXZUFCeKGvbzZCFA8veTVfy1OHj1QnuY/8yz4igwKBgDsmmpqipmIpJSq+D8Ag\n59P0Ce8g54McLQf0RbxOG1eb40qevVRRxysInpVLae7WbZBf73o5GGDngiAdw5Ec\nt8GetVP6Vmwm8uMUie/0OCs+95k5V0F0ybTS0mRhpIHupp21nbeesWpDXGE0pCMv\nFy66+NVGWqI7duAv+QXXnMvS\n-----END PRIVATE KEY-----\n",
+  "client_email": "speech-to-text@named-sequencer-280710.iam.gserviceaccount.com",
+  "client_id": "110349878464107270477",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speech-to-text%40named-sequencer-280710.iam.gserviceaccount.com"
+}
